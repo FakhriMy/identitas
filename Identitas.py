@@ -1,0 +1,8 @@
+print ("\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"")
+print ("\"\"\"\"\" Identitas \"\"\"\"\"")
+print ("\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"")
+print ("Nama\t: Fakhri Muhammad Yusuf")
+print ("NIM \t: 2605060017")
+print ("TTL \t: 2007-10-27")
+print ("JK  \t: Laki-laki")
+print ("Hobi\t: Mendengarkan musik dan Gaming")
